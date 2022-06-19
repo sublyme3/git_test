@@ -11,4 +11,4 @@ stage the file with git add (file turns green in status, it is staged)
 git commit -m 
 after commit, status says "nothing to commit, working tree clean"
 
-git log shows files added(staged), etc...... 
+git log shows files added(staged), etc...... yo change
