@@ -1,0 +1,14 @@
+staging example sidney600.
+create repo directory in home (cd ~) with mkdir
+create new repo on github called git_test
+check the add readme option
+clone this repo to your computer with git clone SSHcopiedthing
+now we have this repo locally
+touch .txt to put a file in this repo
+in repo, check status of files with git status
+git status shows red for unstaged files, green for staged
+stage the file with git add (file turns green in status, it is staged)
+git commit -m 
+after commit, status says "nothing to commit, working tree clean"
+
+git log shows files added(staged), etc...... 
